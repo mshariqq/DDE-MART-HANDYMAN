@@ -34,3 +34,5 @@ flutter run --dart-define=API_BASE_URL=http://10.0.2.2:8000/api/v1
 flutter analyze
 flutter test
 ```
+
+Built by [SHA REEQ](https://mshariqq.github.io/) - M Shariq Ahmed (mshariqq), Web Developer in Hyderabad.
